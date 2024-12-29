@@ -1,0 +1,748 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+.mb-0 {
+  margin-bottom: 0rem !important;
+}
+@media (min-width: 600px) {
+  .mb-0 {
+    margin-bottom: 0rem !important;
+  }
+}
+@media (min-width: 900px) {
+  .mb-0 {
+    margin-bottom: 0rem !important;
+  }
+}
+@media (min-width: 1200px) {
+  .mb-0 {
+    margin-bottom: 0rem !important;
+  }
+}
+
+.mb-1 {
+  margin-bottom: 1rem !important;
+}
+@media (min-width: 600px) {
+  .mb-1 {
+    margin-bottom: 1.2rem !important;
+  }
+}
+@media (min-width: 900px) {
+  .mb-1 {
+    margin-bottom: 1.4rem !important;
+  }
+}
+@media (min-width: 1200px) {
+  .mb-1 {
+    margin-bottom: 1.6rem !important;
+  }
+}
+
+.mb-2 {
+  margin-bottom: 2rem !important;
+}
+@media (min-width: 600px) {
+  .mb-2 {
+    margin-bottom: 2.4rem !important;
+  }
+}
+@media (min-width: 900px) {
+  .mb-2 {
+    margin-bottom: 2.8rem !important;
+  }
+}
+@media (min-width: 1200px) {
+  .mb-2 {
+    margin-bottom: 3.2rem !important;
+  }
+}
+
+.mb-3 {
+  margin-bottom: 3rem !important;
+}
+@media (min-width: 600px) {
+  .mb-3 {
+    margin-bottom: 3.6rem !important;
+  }
+}
+@media (min-width: 900px) {
+  .mb-3 {
+    margin-bottom: 4.2rem !important;
+  }
+}
+@media (min-width: 1200px) {
+  .mb-3 {
+    margin-bottom: 4.8rem !important;
+  }
+}
+
+.mb-4 {
+  margin-bottom: 4rem !important;
+}
+@media (min-width: 600px) {
+  .mb-4 {
+    margin-bottom: 4.8rem !important;
+  }
+}
+@media (min-width: 900px) {
+  .mb-4 {
+    margin-bottom: 5.6rem !important;
+  }
+}
+@media (min-width: 1200px) {
+  .mb-4 {
+    margin-bottom: 6.4rem !important;
+  }
+}
+
+.mb-5 {
+  margin-bottom: 5rem !important;
+}
+@media (min-width: 600px) {
+  .mb-5 {
+    margin-bottom: 6rem !important;
+  }
+}
+@media (min-width: 900px) {
+  .mb-5 {
+    margin-bottom: 7rem !important;
+  }
+}
+@media (min-width: 1200px) {
+  .mb-5 {
+    margin-bottom: 8rem !important;
+  }
+}
+
+.mb-6 {
+  margin-bottom: 6rem !important;
+}
+@media (min-width: 600px) {
+  .mb-6 {
+    margin-bottom: 7.2rem !important;
+  }
+}
+@media (min-width: 900px) {
+  .mb-6 {
+    margin-bottom: 8.4rem !important;
+  }
+}
+@media (min-width: 1200px) {
+  .mb-6 {
+    margin-bottom: 9.6rem !important;
+  }
+}
+
+.mb-7 {
+  margin-bottom: 7rem !important;
+}
+@media (min-width: 600px) {
+  .mb-7 {
+    margin-bottom: 8.4rem !important;
+  }
+}
+@media (min-width: 900px) {
+  .mb-7 {
+    margin-bottom: 9.8rem !important;
+  }
+}
+@media (min-width: 1200px) {
+  .mb-7 {
+    margin-bottom: 11.2rem !important;
+  }
+}
+
+.mb-8 {
+  margin-bottom: 8rem !important;
+}
+@media (min-width: 600px) {
+  .mb-8 {
+    margin-bottom: 9.6rem !important;
+  }
+}
+@media (min-width: 900px) {
+  .mb-8 {
+    margin-bottom: 11.2rem !important;
+  }
+}
+@media (min-width: 1200px) {
+  .mb-8 {
+    margin-bottom: 12.8rem !important;
+  }
+}
+
+.mb-9 {
+  margin-bottom: 9rem !important;
+}
+@media (min-width: 600px) {
+  .mb-9 {
+    margin-bottom: 10.8rem !important;
+  }
+}
+@media (min-width: 900px) {
+  .mb-9 {
+    margin-bottom: 12.6rem !important;
+  }
+}
+@media (min-width: 1200px) {
+  .mb-9 {
+    margin-bottom: 14.4rem !important;
+  }
+}
+
+.mb-10 {
+  margin-bottom: 10rem !important;
+}
+@media (min-width: 600px) {
+  .mb-10 {
+    margin-bottom: 12rem !important;
+  }
+}
+@media (min-width: 900px) {
+  .mb-10 {
+    margin-bottom: 14rem !important;
+  }
+}
+@media (min-width: 1200px) {
+  .mb-10 {
+    margin-bottom: 16rem !important;
+  }
+}
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
+body {
+  line-height: 1;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+blockquote, q {
+  quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: "";
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+html {
+  margin: 0px !important;
+}
+
+body {
+  margin: 0;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  min-height: 100svh;
+  display: flex;
+  flex-direction: column;
+}
+
+.container {
+  padding: 60px 170px 0;
+  flex: 1;
+}
+
+.single-post .container-content {
+  max-width: 800px;
+  width: 100%;
+  margin: 0 auto;
+}
+@media (min-width: 1441px) {
+  .single-post .container-content {
+    width: 55.56%; /* 800px / 1440px * 100 = ~55.56% */
+    max-width: 100%;
+  }
+}
+
+.text-left {
+  text-align: left !important;
+}
+
+h1 {
+  font-family: "Merriweather";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 48px;
+  line-height: 60px;
+  color: #000638;
+}
+
+h2 {
+  font-family: "Merriweather";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 160%;
+  color: #303030;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+}
+header .logo a {
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 30px;
+  color: black;
+  text-decoration: none;
+  text-transform: capitalize;
+  font-family: "Merriweather";
+}
+header nav ul {
+  display: flex;
+  gap: 20px;
+}
+header nav ul li {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+}
+header nav ul li a {
+  color: #605c59;
+  text-decoration: none;
+}
+
+footer {
+  padding: 36px 0px;
+  text-align: center;
+  background: #f5f5f5;
+}
+footer nav {
+  margin-bottom: 26px;
+}
+footer nav ul {
+  display: flex;
+  flex-direction: row;
+  gap: 25px;
+  justify-content: center;
+}
+footer nav ul li a {
+  font-family: "Merriweather";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 160%;
+  color: #544B44;
+  text-decoration: none;
+}
+footer p {
+  font-family: "Merriweather";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 160%;
+  color: #3e3e3e;
+}
+
+.hero {
+  margin: 103px 0 170px 0;
+  text-align: center;
+}
+.hero p {
+  font-size: 20px;
+  line-height: 23px;
+  color: #605c59;
+}
+
+.blogs {
+  display: flex;
+  gap: 0 80px;
+  flex-wrap: wrap;
+}
+.blogs .blog {
+  flex: 0 0 calc(50% - 40px);
+}
+.blogs .blog .img {
+  margin-bottom: 21px;
+  height: 278px;
+  overflow: hidden;
+  border-radius: 5px;
+}
+.blogs .blog .img img {
+  width: 100%;
+  object-fit: cover;
+}
+.blogs .blog .category {
+  background: #283a61;
+  border-radius: 3px;
+  padding: 5px 17px;
+}
+.blogs .blog .category a {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: rgba(255, 255, 255, 0.85);
+  text-decoration: none;
+}
+.blogs .blog .title {
+  margin-top: 8px;
+  font-family: "Merriweather";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 140%;
+  color: #000000;
+}
+.blogs .blog .date {
+  font-family: "Merriweather";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 160%;
+  color: #515151;
+}
+.blogs .blog .description {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 160%;
+  color: #434343;
+  margin-bottom: 20px;
+}
+.blogs .blog a.author img {
+  border-radius: 50%;
+  width: 42px;
+  height: 42px;
+}
+.blogs .blog .author {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 14px;
+  text-decoration: none;
+}
+.blogs .blog .author .img {
+  border-radius: 50%;
+  width: 42px;
+  height: 42px;
+}
+.blogs .blog .author .name {
+  font-family: "Merriweather";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 160%;
+  color: #000000;
+}
+
+.pagination {
+  margin-top: 152px;
+  margin-bottom: 68px;
+}
+.pagination ul {
+  display: flex;
+  gap: 0 20px;
+  justify-content: center;
+}
+.pagination ul li .page-numbers {
+  padding: 11.5px 16.5px;
+  border-radius: 50%;
+  background: #f5f5f5;
+  color: #605c59;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 160%;
+}
+.pagination ul li .page-numbers.current {
+  background: #000638;
+  color: #ffffff;
+}
+.pagination ul li .page-numbers.dots {
+  background: none;
+}
+.pagination ul li a.page-numbers {
+  text-decoration: none;
+}
+.pagination ul li a.page-numbers:hover {
+  background: #000638;
+  color: #ffffff;
+}
+
+.single-post .hero .category {
+  background: #283a61;
+  border-radius: 3px;
+  padding: 5px 17px;
+}
+.single-post .hero .category a {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: rgba(255, 255, 255, 0.85);
+  text-decoration: none;
+}
+.single-post .hero h1 {
+  font-family: "Merriweather";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 46px;
+  line-height: 58px;
+  color: #000000;
+}
+.single-post .hero .date {
+  font-family: "Merriweather";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 160%;
+  color: #515151;
+}
+.single-post .hero .img {
+  margin: 8px 0 20px 0;
+  height: 278px;
+  overflow: hidden;
+  border-radius: 5px;
+  filter: drop-shadow(0px 5px 10px rgba(0, 0, 0, 0.5));
+}
+.single-post .hero .img img {
+  width: 100%;
+  object-fit: cover;
+}
+.single-post .hero a.author img {
+  border-radius: 50%;
+  width: 42px;
+  height: 42px;
+}
+.single-post .hero .author {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 14px;
+  text-decoration: none;
+}
+.single-post .hero .author .img {
+  border-radius: 50%;
+  width: 42px;
+  height: 42px;
+}
+.single-post .hero .author .name {
+  font-family: "Merriweather";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 160%;
+  color: #000000;
+}
+.single-post p {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 160%;
+  color: #434343;
+  margin: 15px 0;
+}
+.single-post p strong {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 26px;
+  line-height: 160%;
+  color: #434343;
+}
+.single-post h2 {
+  margin: 30px 0 20px;
+  font-family: "Merriweather";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 160%;
+  color: #303030;
+}
+.single-post h3 {
+  font-family: "Merriweather";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 160%;
+  color: #303030;
+}
+.single-post .related-post {
+  margin: 30px 0;
+}
+.single-post .related-post a {
+  display: flex;
+  gap: 34px;
+  text-decoration: none;
+}
+.single-post .related-post a img {
+  width: 250px;
+  max-width: 100%;
+}
+.single-post .related-post a h4 {
+  font-family: "Merriweather";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 160%;
+  color: #303030;
+}
+.single-post .related-post a p {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 160%;
+  color: #4f4f4f;
+}
+.single-post .related-post a .img-container {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  width: 250px;
+  padding-top: 66%; /* Aspect ratio padding */
+  position: relative;
+}
+.single-post .related-post a .img-container img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 5px;
+  object-fit: cover;
+  filter: drop-shadow(0px 5px 10px rgba(0, 0, 0, 0.5));
+}
+.single-post .written-by {
+  padding: 40px 30px;
+  background: #f5f5f5;
+  border: 1px solid #dddddd;
+  border-radius: 5px;
+  margin-bottom: 100px;
+}
+.single-post .written-by .author-info {
+  display: flex;
+  gap: 28px;
+}
+.single-post .written-by .author-info .avatar {
+  border-radius: 378px;
+  width: 150px;
+  height: 150px;
+  max-width: 100%;
+  max-height: 100%;
+}
+.single-post .written-by .author-info .author-details .author-name {
+  font-family: "Merriweather";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 160%;
+  color: #000000;
+}
+.single-post .written-by .author-info .author-details .author-description {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 160%;
+  color: #000000;
+}
+
+/* Small devices (phones, 576px and up) */
+@media (min-width: 576px) {
+  .container {
+    padding: 60px 170px 0;
+  }
+  .header {
+    padding: 15px;
+  }
+  .logo {
+    font-size: 20px;
+  }
+}
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+  .container {
+    padding: 60px 170px 0;
+  }
+  .header {
+    padding: 20px;
+  }
+  .logo {
+    font-size: 22px;
+  }
+}
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  .container {
+    padding: 60px 170px 0;
+  }
+  .header {
+    padding: 25px;
+  }
+  .logo {
+    font-size: 24px;
+  }
+}
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+  .container {
+    padding: 60px 170px 0;
+  }
+  .header {
+    padding: 30px;
+  }
+  .logo {
+    font-size: 26px;
+  }
+}
+/* Extra extra large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {
+  .single-post .container-content {
+    width: 55.56%; /* 800px / 1440px * 100 = ~55.56% */
+    max-width: 100%;
+  }
+  .header {
+    padding: 35px;
+  }
+  .logo {
+    font-size: 28px;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */

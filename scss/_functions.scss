@@ -1,0 +1,24 @@
+@use "sass:math";
+@mixin margin-bottom-responsive($start: 0rem, $end: 10rem, $steps: 10) {
+    @for $i from 0 through $steps {
+      $value: $start + calc($i * (($end - $start) / $steps));
+      .mb-#{$i} {
+        margin-bottom: $value !important;
+  
+        @media (min-width: 600px) {
+          margin-bottom: $value * 1.2 !important; // Adjust for medium screens
+        }
+  
+        @media (min-width: 900px) {
+          margin-bottom: $value * 1.4 !important; // Adjust for large screens
+        }
+  
+        @media (min-width: 1200px) {
+          margin-bottom: $value * 1.6 !important; // Adjust for extra large screens
+        }
+      }
+    }
+  }
+  
+  @include margin-bottom-responsive();
+  

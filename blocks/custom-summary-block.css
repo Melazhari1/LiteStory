@@ -1,0 +1,39 @@
+.wp-block-your-plugin-summary-block {
+    margin: 20px 0;
+    padding: 33px 0 20px 35px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 7px;
+  }
+  .wp-block-your-plugin-summary-block ol{
+      list-style: auto;
+      padding: 0px 45px;
+  }
+  .wp-block-your-plugin-summary-block h3 {
+    margin-bottom: 10px;
+  
+    font-family: "Merriweather";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 160%;
+    color: #000000;
+  }
+  
+  .wp-block-your-plugin-summary-block li {
+    margin-bottom: 15px;
+  }
+  
+  .wp-block-your-plugin-summary-block a {
+    text-decoration: none;
+  
+    font-family: "Merriweather";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 160%;
+    text-decoration-line: underline;
+  
+    color: #303030;
+  }
+  

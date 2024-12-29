@@ -1,0 +1,33 @@
+footer {
+  padding: 36px 0px;
+  text-align: center;
+  background: #f5f5f5;
+  nav {
+    margin-bottom: 26px;
+    ul {
+      display: flex;
+      flex-direction: row;
+      gap: 25px;
+      justify-content: center;
+      li{
+        a{
+            font-family: 'Merriweather';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 14px;
+            line-height: 160%;
+            color: #544B44;
+            text-decoration: none;
+        }
+      }
+    }
+  }
+  p {
+    font-family: "Merriweather";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 160%;
+    color: #3e3e3e;
+  }
+}

@@ -1,0 +1,67 @@
+@use "variables" as vars;
+
+/* Small devices (phones, 576px and up) */
+@media (min-width: 576px) {
+  .container {
+    padding: vars.$space-top vars.$space-horizontal 0;
+  }
+  .header {
+    padding: 15px;
+  }
+  .logo {
+    font-size: 20px;
+  }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+  .container {
+    padding: vars.$space-top vars.$space-horizontal 0;
+  }
+  .header {
+    padding: 20px;
+  }
+  .logo {
+    font-size: 22px;
+  }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  .container {
+    padding: vars.$space-top vars.$space-horizontal 0;
+  }
+  .header {
+    padding: 25px;
+  }
+  .logo {
+    font-size: 24px;
+  }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+  .container {
+    padding: vars.$space-top vars.$space-horizontal 0;
+  }
+  .header {
+    padding: 30px;
+  }
+  .logo {
+    font-size: 26px;
+  }
+}
+
+/* Extra extra large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {
+  .single-post .container-content {
+    width: 55.56%; /* 800px / 1440px * 100 = ~55.56% */
+    max-width: 100%;
+  }
+  .header {
+    padding: 35px;
+  }
+  .logo {
+    font-size: 28px;
+  }
+}

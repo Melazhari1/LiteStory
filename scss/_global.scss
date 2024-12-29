@@ -1,0 +1,48 @@
+@use "variables" as vars;
+html {
+  margin: 0px !important;
+}
+body {
+  margin: 0;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  min-height: 100svh;
+  display: flex;
+  flex-direction: column;
+}
+.container {
+  padding: vars.$space-top vars.$space-horizontal 0;
+  flex: 1;
+}
+.single-post {
+  .container-content {
+    max-width: 800px;
+    width: 100%;
+    margin: 0 auto;
+    @media (min-width: 1441px) {
+      width: 55.56%; /* 800px / 1440px * 100 = ~55.56% */
+      max-width: 100%;
+    }
+  }
+}
+.text-left {
+  text-align: left !important;
+}
+h1 {
+  font-family: "Merriweather";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 48px;
+  line-height: 60px;
+  color: #000638;
+}
+h2 {
+  font-family: "Merriweather";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 160%;
+  color: #303030;
+}
